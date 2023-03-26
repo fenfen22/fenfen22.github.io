@@ -1,0 +1,8 @@
+title: Social Data 2023
+description: A starter template for a Jeykll site using the Just the Docs theme!
+theme: just-the-docs
+
+url: https://fenfen22.github.io
+
+aux_links:
+  Template Repository: https://github.com/just-the-docs/just-the-docs-template
