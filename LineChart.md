@@ -13,8 +13,3 @@ frighferfniorg
 fiuegheiguheg
 <br>
 </p>
-<!-- the link of this plot is :
-
-
-
-<!-- https://raw.githack.com/fenfen22/fenfen22.github.io/main/LinePlot_hide.html -->
