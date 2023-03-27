@@ -12,6 +12,7 @@ The above figure showed the number of drunkenness incidents in the tourist area 
 We have some assumptions about why the frequency of drunkenness incidents is higher in the Northen area. As Richmond and Ingleside districts with many quiet residential areas, these two districts have a large number of residents with stable incomes, and their taxes can be fed back into the community security, forming a positive cycle, which is a possible factor in keeping the crime rate low. 
 
 While it's not the same in the Southern district. The Southern District covers many different communities, Bayview, Bernal Heights, Dogpatch, Excelsior, Ingleside, Mission, Potrero Hill, Visitacion Valley, and more. Rates of violent crime and property crime are relatively high in these communities. The reason for this phenomenon is that some neighbourhoods in the Southern District are poorer neighbourhoods, and the residents in these neighbourhoods may be more commonly faced with problems such as unemployment and poverty, which directly lead to increased crime rates. In the long run, the culture of violence may become more common, and some young people may be easily affected by violent behaviours, leading to a rise in the crime rate, too.
+
 The good news is that there seems to be an overall decline in drunkenness incidents in 2017, compared to 2016 and 2015![^1]
 
 ----
