@@ -2,9 +2,14 @@
 title: Drunkenness in SF dataset
 layout: home
 ---
+
+![](https://laneulrich.com/wp-content/uploads/2019/05/Drunkenness.jpg)
+
 ### **Brief Introduction**
 
-[San Francisco crime dataset](https://datasf.org/opendata) from 2003 to May 2018 has been chosen for analysing in this article. The dataset is publicly available and can be accessed through the [SFPD's website](https://www.sanfranciscopolice.org).
+
+
+[San Francisco crime dataset](https://datasf.org/opendata) from 2003 to May 2018 has been chosen for analysing in this article. To be more specific, we only considered crime data from 2003 to 2017 in our report because the crime data of 2018 is incomplete in this dataset. We The dataset is publicly available and can be accessed through the [SFPD's website](https://www.sanfranciscopolice.org).
 
 
 The total number of crimes in this dataset is 2129525, the average number of crimes per year is 133095.3125. The dataset includes [various attributes](https://data.sfgov.org/Public-Safety/Police-Department-Incident-Reports-Historical-2003/tmnf-yvry) such as the incident date and time, the location of the incident, the type of crime committed, the police district where the incident occurred, the victim's demographic information and so on. This dataset contains 37 types of crime, such as larceny/theft, assault, warrants, robbery, drunkenness and trea. Among them, larceny/theft is the most commonly occurring category of crime, while trea is the least frequently occurring.
