@@ -1,8 +1,8 @@
 ---
-title: 4.Drunkeness in different district
+title: 4. Drunkeness in different district
 layout: home
 ---
-### **Drunkeness in different district over 15 years**
+### **Drunkeness in different districts over 15 years**
 
 With the line plot below, We could see the changes in the total number of drunkenness committed each year in the different districts over 15 years. (*You can choose to hide one district or some of the districts by clicking the specific legends.*)
 
