@@ -1,5 +1,5 @@
 ---
-title: How does drunkenness change during a week
+title: 2. Drunkenness per day of week and hour
 layout: home
 ---
 
